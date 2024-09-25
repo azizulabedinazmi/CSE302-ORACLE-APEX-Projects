@@ -1,12 +1,16 @@
 # CSE302-ORACLE-APEX-Projects
 CSE302-ORACLE-APEX-Projects : Airline Management System
 
+**Project Report**
 
+<<<<<<< HEAD
 ![](img/login.gif)
 
 
 **Project Report**
 
+=======
+>>>>>>> bf3c221e666b0a1f6adddf0b6cdec5183dbce550
 Airline Management System
 
 Project URL: 
@@ -18,7 +22,11 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 2. Schema Design of the Project
 
+<<<<<<< HEAD
 ![](img/image3.jpeg)
+=======
+![](img/image3.png)
+>>>>>>> bf3c221e666b0a1f6adddf0b6cdec5183dbce550
 
 3. Implementation Checklist
 
