@@ -13,7 +13,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 1. E-R Model of the Project 
 
-![Azmi Words 97558260-f5b5-48a5-8f90-27a8e29064bc 001 (2)](https://github.com/user-attachments/assets/239d06cd-5ff4-416e-818e-d3b1278f8259)
+![](img/image2.png)
 
 
 2. Schema Design of the Project 
