@@ -13,6 +13,19 @@ Airline Management System
 Project URL: 
 https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=100208179961928
 
+
+**Team Members:** 
+
+
+
+|**Contributors** |**Student Name** |**Contribution Percentage** |
+| - | - | - |
+|**1** |**[Azizul Abedin Azmi](https://github.com/azizulabedinazmi)** |**40%** |
+|**2** |**[Tanzila Afrin](https://github.com/Tanzila-Afrin)** |**30%** |
+|**3** |**Nur Uddin Bhuiyan Rafi** |**30%** |
+
+
+
 1. E-R Model of the Project
 
 ![](img/image2.png)
