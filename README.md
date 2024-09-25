@@ -1,7 +1,7 @@
 # CSE302-ORACLE-APEX-Projects
 CSE302-ORACLE-APEX-Projects : Airline Management System
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.001.png)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.001.png)
 
 **CSE302: Database Systems (Section: 02) [Summer 2024]** 
 
@@ -18,11 +18,11 @@ management\_system/login?session=100208179961928
 
 1. E-R Model of the Project 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.002.png)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.002.png)
 
 2. Schema Design of the Project 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.003.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.003.jpeg)
 
 3. Implementation Checklist 
 
@@ -56,91 +56,91 @@ management\_system/login?session=100208179961928
 
 **Screenshots:** 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.004.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.004.jpeg)
 
 Figure 1.1 Airlines Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.005.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.005.jpeg)
 
 Figure 1.2 Airline Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.006.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.006.jpeg)
 
 Figure 2.1 Airports Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.007.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.007.jpeg)
 
 Figure 2.2 Airport Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.008.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.008.jpeg)
 
 Figure 3.1 Flights Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.009.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.009.jpeg)
 
 Figure 3.2 Flight Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.010.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.010.jpeg)
 
 Figure 4.1 Passengers Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.011.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.011.jpeg)
 
 Figure 4.2 Passenger Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.012.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.012.jpeg)
 
 Figure 5.1 Bookings Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.013.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.013.jpeg)
 
 Figure 5.2 Booking Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.014.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.014.jpeg)
 
 Figure 6.1 Crews Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.015.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.015.jpeg)
 
 Figure 6.2 Crew Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.016.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.016.jpeg)
 
 Figure 7.1 Flight Crews Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.017.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.017.jpeg)
 
 Figure 7.2 Flight Crew Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.018.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.018.jpeg)
 
 Figure 8.1 Payments Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.019.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.019.jpeg)
 
 Figure 8.2 Payment Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.020.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.020.jpeg)
 
 Figure 9.1 Flights Status Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.021.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.021.jpeg)
 
 Figure 9.2 Flight Status Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.022.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.022.jpeg)
 
 Figure 10.1 Financial Transactions Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.023.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.023.jpeg)
 
 Figure 10.2 Financial Transaction Form Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.024.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.024.jpeg)
 
 Figure 11.1 Users Report Page. 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.025.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.025.jpeg)
 
 Figure 11.2 User Form Page. 
 
@@ -159,27 +159,27 @@ Figure 11.2 User Form Page.
 
 **Screenshots:** 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.026.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.026.jpeg)
 
 Figure 12 Get All Bookings Report Page 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.027.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.027.jpeg)
 
 Figure 13 Airline with Flight Report Page 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.028.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.028.jpeg)
 
 Figure 14 Get Departure Airports Report Page 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.029.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.029.jpeg)
 
 Figure 15 Get Unbooked Flights Report Page 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.030.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.030.jpeg)
 
 Figure 16 Get High-Value Passengers Report Page 
 
-![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.031.jpeg)
+![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.031.jpeg)
 
 Figure 17 Get Unassigned Crew Report Page 
 
@@ -209,13 +209,13 @@ Page 19
 ### 1. Import the ZIP File (Frontend of the Application)
 - Navigate to the **App Builder** in Oracle APEX.
 - Click on **Import**.
-- Choose the ZIP file containing the frontend of the application.
+- Choose the ZIP `azmi_project.zip` file containing the frontend of the application.
 - Follow the instructions to complete the import process.
 
 ### 2. Upload and Run the .SQL File (Backend of the Application)
 - Navigate to the **SQL Workshop** in Oracle APEX.
 - Select **SQL Scripts** and then **Upload**.
-- Upload the `.sql` file which contains the backend logic (database schema, procedures, etc.).
+- Upload the `project.sql` file which contains the backend logic (database schema, procedures, etc.).
 - After uploading, run the script to configure the database backend.
 
 ### 3. Default Login Credentials
