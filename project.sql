@@ -9,6 +9,9 @@ DROP TABLE Flights;
 DROP TABLE Airports;
 DROP TABLE Airlines;
 DROP TABLE users;
+
+COMMIT;
+
 DROP SEQUENCE financial_transaction_seq;
 DROP SEQUENCE flight_status_seq;
 DROP SEQUENCE payment_seq;
@@ -20,6 +23,8 @@ DROP SEQUENCE flight_seq;
 DROP SEQUENCE airport_seq;
 DROP SEQUENCE airline_seq;
 DROP SEQUENCE users_seq;
+
+COMMIT;
 
 
 
