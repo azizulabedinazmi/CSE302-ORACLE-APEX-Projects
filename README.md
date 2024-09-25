@@ -1,28 +1,22 @@
 # CSE302-ORACLE-APEX-Projects
 CSE302-ORACLE-APEX-Projects : Airline Management System
 
+**Project Report**
 
-**Project Report** 
-
-Airline Management System 
+Airline Management System
 
 Project URL: 
 https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=100208179961928
 
-
-
-1. E-R Model of the Project 
+1. E-R Model of the Project
 
 ![](img/image2.png)
 
+2. Schema Design of the Project
 
-2. Schema Design of the Project 
+![](img/image3.png)
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.003.jpeg)
-
-3. Implementation Checklist 
-
-
+3. Implementation Checklist
 
 |**Description** |**Remarks** |
 | - | - |
@@ -30,11 +24,9 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Number of Reports with Forms** |11 |
 |Number of Reports based on Queries, Aggregate Queries** |6 |
 |Included any trigger/other feature which is not taught in class. If yes, please explain briefly.** |Yes, we use trigger which automatically assigns a new value to the (primary key) column to sequence before a new row is inserted into the triggered table. |
-|Write the most unique feature/functionality in your application or the page of your application that you are proud of. Explain briefly.** |One unique feature of our application is the Automated Flight  Crew  Assignment  System,  which  dynamically assigns  crew  members  to  flights  based  on  roles, availability, and compliance with regulations. This feature reduces manual scheduling efforts and ensures efficient crew management. |
+|Write the most unique feature/functionality in your application or the page of your application that you are proud of. Explain briefly.** |One unique feature of our application is the Automated Flight Crew Assignment System, which dynamically assigns crew members to flights based on roles, availability, and compliance with regulations. This feature reduces manual scheduling efforts and ensures efficient crew management. |
 
-4. Reports with Forms 
-
-
+4. Reports with Forms
 
 |Report Page Number and Name |Form Page Number and Name |Table |
 | - | - | - |
@@ -50,153 +42,147 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |20-Financial Transactions |21- Financial Transaction |Financial\_Transactions |
 |22-Users |23-User |Users |
 
-**Screenshots:** 
+**Screenshots:**
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.004.jpeg)
+![](img/image4.png)
 
-Figure 1.1 Airlines Report Page. 
+Figure 1.1 Airlines Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.005.jpeg)
+![](img/image5.png)
 
-Figure 1.2 Airline Form Page. 
+Figure 1.2 Airline Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.006.jpeg)
+![](img/image6.png)
 
-Figure 2.1 Airports Report Page. 
+Figure 2.1 Airports Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.007.jpeg)
+![](img/image7.png)
 
-Figure 2.2 Airport Form Page. 
+Figure 2.2 Airport Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.008.jpeg)
+![](img/image8.png)
 
-Figure 3.1 Flights Report Page. 
+Figure 3.1 Flights Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.009.jpeg)
+![](img/image9.png)
 
-Figure 3.2 Flight Form Page. 
+Figure 3.2 Flight Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.010.jpeg)
+![](img/image10.png)
 
-Figure 4.1 Passengers Report Page. 
+Figure 4.1 Passengers Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.011.jpeg)
+![](img/image11.png)
 
-Figure 4.2 Passenger Form Page. 
+Figure 4.2 Passenger Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.012.jpeg)
+![](img/image12.png)
 
-Figure 5.1 Bookings Report Page. 
+Figure 5.1 Bookings Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.013.jpeg)
+![](img/image13.png)
 
-Figure 5.2 Booking Form Page. 
+Figure 5.2 Booking Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.014.jpeg)
+![](img/image14.png)
 
-Figure 6.1 Crews Report Page. 
+Figure 6.1 Crews Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.015.jpeg)
+![](img/image15.png)
 
-Figure 6.2 Crew Form Page. 
+Figure 6.2 Crew Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.016.jpeg)
+![](img/image16.png)
 
-Figure 7.1 Flight Crews Report Page. 
+Figure 7.1 Flight Crews Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.017.jpeg)
+![](img/image17.png)
 
-Figure 7.2 Flight Crew Form Page. 
+Figure 7.2 Flight Crew Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.018.jpeg)
+![](img/image18.png)
 
-Figure 8.1 Payments Report Page. 
+Figure 8.1 Payments Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.019.jpeg)
+![](img/image19.png)
 
-Figure 8.2 Payment Form Page. 
+Figure 8.2 Payment Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.020.jpeg)
+![](img/image20.png)
 
-Figure 9.1 Flights Status Report Page. 
+Figure 9.1 Flights Status Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.021.jpeg)
+![](img/image21.png)
 
-Figure 9.2 Flight Status Form Page. 
+Figure 9.2 Flight Status Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.022.jpeg)
+![](img/image22.png)
 
-Figure 10.1 Financial Transactions Report Page. 
+Figure 10.1 Financial Transactions Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.023.jpeg)
+![](img/image23.png)
 
-Figure 10.2 Financial Transaction Form Page. 
+Figure 10.2 Financial Transaction Form Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.024.jpeg)
+![](img/image24.png)
 
-Figure 11.1 Users Report Page. 
+Figure 11.1 Users Report Page.
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.025.jpeg)
+![](img/image25.png)
 
-Figure 11.2 User Form Page. 
+Figure 11.2 User Form Page.
 
-5. Reports based on Multi-Table and Aggregate Queries  
-
-
+5. Reports based on Multi-Table and Aggregate Queries
 
 |Page Number and Name |Query Type |Report description |
 | - | - | - |
 |26-Get All Bookings |Nested |Retrieve all bookings along with passenger names |
 |28-Airline With Flight |Nested |Retrieve all airlines that have flights |
-|36-Ger Departure Airports |Nested |Find all airports that have flights  departing from them |
+|36-Ger Departure Airports |Nested |Find all airports that have flights departing from them |
 |38-Get Unbooked Flights |Nested |Find all flights that do not have any bookings |
 |44- Get High-Value Passengers |Nested |List all passengers who have booked a flight with a price greater than $1000 |
 |48-Get Unassigned Crew |Nested |List all crew members who are not assigned to any flight |
 
-**Screenshots:** 
+**Screenshots:**
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.026.jpeg)
+![](img/image26.png)
 
-Figure 12 Get All Bookings Report Page 
+Figure 12 Get All Bookings Report Page
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.027.jpeg)
+![](img/image27.png)
 
-Figure 13 Airline with Flight Report Page 
+Figure 13 Airline with Flight Report Page
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.028.jpeg)
+![](img/image28.png)
 
-Figure 14 Get Departure Airports Report Page 
+Figure 14 Get Departure Airports Report Page
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.029.jpeg)
+![](img/image29.png)
 
-Figure 15 Get Unbooked Flights Report Page 
+Figure 15 Get Unbooked Flights Report Page
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.030.jpeg)
+![](img/image30.png)
 
-Figure 16 Get High-Value Passengers Report Page 
+Figure 16 Get High-Value Passengers Report Page
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.031.jpeg)
+![](img/image31.png)
 
-Figure 17 Get Unassigned Crew Report Page 
+Figure 17 Get Unassigned Crew Report Page
 
-6. Authorization and User Role Assignment 
+6. Authorization and User Role Assignment
 
-**User Role Assignment:** 
+**User Role Assignment:**
 
--- user\_activated column: 1 means active, 0 means inactive 
-
-
+-- user\_activated column: 1 means active, 0 means inactive
 
 |User name |Password |Role |User Activated |
 | - | - | - | - |
 |azmi |azmi007@@## |admin |1 |
 
-
-7. Concluding Remarks 
+7. Concluding Remarks
 
 Developing with Oracle APEX was a mix of frustration and satisfaction. The platform made simple tasks easy but felt limiting for complex customizations. Despite some challenges, the quick deployment and ease of use made it worthwhile. 
-Page 19 
-
+Page 19
 
 # Oracle APEX Application Installation Guide
 
