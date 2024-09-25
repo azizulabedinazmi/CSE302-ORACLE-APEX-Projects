@@ -10,9 +10,7 @@ CSE302-ORACLE-APEX-Projects : Airline Management System
 Airline Management System 
 
 Project URL: 
-https://apex.oracle.com/pls/apex/r/azmi/airline\_
-
-management\_system/login?session=100208179961928 
+https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=100208179961928
 
 
 
