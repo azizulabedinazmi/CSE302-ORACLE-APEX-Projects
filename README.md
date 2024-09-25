@@ -3,7 +3,7 @@ CSE302-ORACLE-APEX-Projects : Airline Management System
 
 
 <p align="center">
-![](img/login.gif)
+<img  src="img/login.gif">
 </p>
 
 **Project Report**
