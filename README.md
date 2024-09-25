@@ -45,7 +45,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Number of Reports with Forms** |11 |
 |Number of Reports based on Queries, Aggregate Queries** |6 |
 |Included any trigger/other feature which is not taught in class. If yes, please explain briefly.** |Yes, we use trigger which automatically assigns a new value to the (primary key) column to sequence before a new row is inserted into the triggered table. |
-|Write the most unique feature/functionality in your application or the page of your application that you are proud of. Explain briefly.** |One unique feature of our application is the Automated Flight Crew Assignment System, which dynamically assigns crew members to flights based on roles, availability, and compliance with regulations. This feature reduces manual scheduling efforts and ensures efficient crew management. |
+|The most unique feature/functionality in our application or the page of our application that we are proud of. Explain briefly.** |One unique feature of our application is the Automated Flight Crew Assignment System, which dynamically assigns crew members to flights based on roles, availability, and compliance with regulations. This feature reduces manual scheduling efforts and ensures efficient crew management. |
 
 4. Reports with Forms
 
