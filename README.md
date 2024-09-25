@@ -1,9 +1,6 @@
 # CSE302-ORACLE-APEX-Projects
 CSE302-ORACLE-APEX-Projects : Airline Management System
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.001.png)
-
-**CSE302: Database Systems (Section: 02) [Summer 2024]** 
 
 **Project Report** 
 
@@ -16,7 +13,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 1. E-R Model of the Project 
 
-![](img\Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.002.png)
+![](img/Azmi.Words.97558260-f5b5-48a5-8f90-27a8e29064bc.001 (1).jpeg)
 
 2. Schema Design of the Project 
 
