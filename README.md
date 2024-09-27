@@ -66,9 +66,9 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 **Screenshots:**
 
+| - | - |
 
-
-Figure 1.1 Airlines Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image4.png)
+|Figure 1.1 Airlines Report Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image4.png)|
 
 
 
