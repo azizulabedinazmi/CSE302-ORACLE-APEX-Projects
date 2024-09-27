@@ -6,10 +6,10 @@ CSE302-ORACLE-APEX-Projects : Airline Management System
 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 <p align="center">
-<img  src="img/login.gif">
+<img src="img/login.gif" width="500" height="300">
 </p>
 <p align="center">
-<img  src="img/Home.gif">
+<img src="img/Home.gif" width="500" height="300">
 </p>
 
 **Project Report**
