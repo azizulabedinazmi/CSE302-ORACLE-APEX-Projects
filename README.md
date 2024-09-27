@@ -1,5 +1,5 @@
-# CSE302-ORACLE-APEX-Projects
-CSE302-ORACLE-APEX-Projects : Airline Management System
+# CSE302-ORACLE_APEX-Project
+CSE302-ORACLE_APEX-Project : Airline Management System
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)] [<img src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" alt="icon"/>] [[![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)]
 
