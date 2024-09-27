@@ -95,7 +95,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Figure 11.1 Users Report Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image24.png)|
 |Figure 11.2 User Form Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image25.png)|
 
-**Reports based on Multi-Table and Aggregate Queries**
+5. Reports based on Multi-Table and Aggregate Queries
 
 |**Page Number and Name** |**Query Type** |**Report description** |
 | - | - | - |
