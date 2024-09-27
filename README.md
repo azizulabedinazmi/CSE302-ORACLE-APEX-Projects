@@ -66,7 +66,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 **Screenshots:**
 
-```markdown
+
 |**Figure** |**View Image** |
 | - | - |
 |Figure 1.1 Airlines Report Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image4.png)|
@@ -113,7 +113,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Figure 15 Get Unbooked Flights Report Page |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image29.png)|
 |Figure 16 Get High-Value Passengers Report Page |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image30.png)|
 |Figure 17 Get Unassigned Crew Report Page |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image31.png)|
-```
+
 
 6. Authorization and User Role Assignment
 
