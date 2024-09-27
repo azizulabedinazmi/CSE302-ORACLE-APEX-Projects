@@ -66,93 +66,93 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 **Screenshots:**
 
-[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image4.png)
 
-Figure 1.1 Airlines Report Page.
 
-![](img/image5.png)
+Figure 1.1 Airlines Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image4.png)
 
-Figure 1.2 Airline Form Page.
 
-![](img/image6.png)
 
-Figure 2.1 Airports Report Page.
+Figure 1.2 Airline Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image5.png)
 
-![](img/image7.png)
 
-Figure 2.2 Airport Form Page.
 
-![](img/image8.png)
+Figure 2.1 Airports Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image6.png)
 
-Figure 3.1 Flights Report Page.
 
-![](img/image9.png)
 
-Figure 3.2 Flight Form Page.
+Figure 2.2 Airport Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image7.png)
 
-![](img/image10.png)
 
-Figure 4.1 Passengers Report Page.
 
-![](img/image11.png)
+Figure 3.1 Flights Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image8.png)
 
-Figure 4.2 Passenger Form Page.
 
-![](img/image12.png)
 
-Figure 5.1 Bookings Report Page.
+Figure 3.2 Flight Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image9.png)
 
-![](img/image13.png)
 
-Figure 5.2 Booking Form Page.
 
-![](img/image14.png)
+Figure 4.1 Passengers Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image10.png)
 
-Figure 6.1 Crews Report Page.
 
-![](img/image15.png)
 
-Figure 6.2 Crew Form Page.
+Figure 4.2 Passenger Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image11.png)
 
-![](img/image16.png)
 
-Figure 7.1 Flight Crews Report Page.
 
-![](img/image17.png)
+Figure 5.1 Bookings Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image12.png)
 
-Figure 7.2 Flight Crew Form Page.
 
-![](img/image18.png)
 
-Figure 8.1 Payments Report Page.
+Figure 5.2 Booking Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image13.png)
 
-![](img/image19.png)
 
-Figure 8.2 Payment Form Page.
 
-![](img/image20.png)
+Figure 6.1 Crews Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image14.png)
 
-Figure 9.1 Flights Status Report Page.
 
-![](img/image21.png)
 
-Figure 9.2 Flight Status Form Page.
+Figure 6.2 Crew Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image15.png)
 
-![](img/image22.png)
 
-Figure 10.1 Financial Transactions Report Page.
 
-![](img/image23.png)
+Figure 7.1 Flight Crews Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image16.png)
 
-Figure 10.2 Financial Transaction Form Page.
 
-![](img/image24.png)
 
-Figure 11.1 Users Report Page.
+Figure 7.2 Flight Crew Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image17.png)
 
-![](img/image25.png)
 
-Figure 11.2 User Form Page.
+
+Figure 8.1 Payments Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image18.png)
+
+
+
+Figure 8.2 Payment Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image19.png)
+
+
+
+Figure 9.1 Flights Status Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image20.png)
+
+
+
+Figure 9.2 Flight Status Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image21.png)
+
+
+
+Figure 10.1 Financial Transactions Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image22.png)
+
+
+
+Figure 10.2 Financial Transaction Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image23.png)
+
+
+
+Figure 11.1 Users Report Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image24.png)
+
+
+
+Figure 11.2 User Form Page. [![View Image](https://img.shields.io/badge/View-Image-blue)](img/image25.png)
 
 5. Reports based on Multi-Table and Aggregate Queries
 
@@ -167,27 +167,27 @@ Figure 11.2 User Form Page.
 
 **Screenshots:**
 
-![](img/image26.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image26.png)
 
 Figure 12 Get All Bookings Report Page
 
-![](img/image27.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image27.png)
 
 Figure 13 Airline with Flight Report Page
 
-![](img/image28.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image28.png)
 
 Figure 14 Get Departure Airports Report Page
 
-![](img/image29.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image29.png)
 
 Figure 15 Get Unbooked Flights Report Page
 
-![](img/image30.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image30.png)
 
 Figure 16 Get High-Value Passengers Report Page
 
-![](img/image31.png)
+[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image31.png)
 
 Figure 17 Get Unassigned Crew Report Page
 
