@@ -31,9 +31,8 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 1. E-R Model of the Project
 
-[[![View Image](https://img.shields.io/badge/View-Image-blue)](img/image2.jpg){:target="_blank"}]
+![](img/image2.jpg)
 
-[go](http://stackoverflow.com){:target="_blank"}
 
 2. Schema Design of the Project
 
