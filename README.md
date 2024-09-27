@@ -12,7 +12,7 @@ CSE302-ORACLE-APEX-Projects : Airline Management System
 <img src="img/Home.gif" width="300" height="132">
 </p>
 
-**Project Report**
+# Project Report
 
 Airline Management System
 
@@ -32,16 +32,16 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 
 
-1. E-R Model of the Project
+## 1. E-R Model of the Project
 
 ![](img/image2.jpg)
 
 
-2. Schema Design of the Project
+## 2. Schema Design of the Project
 
 ![](img/image3.jpeg)
 
-3. Implementation Checklist
+## 3. Implementation Checklist
 
 |**Description** |**Remarks** |
 | - | - |
@@ -51,7 +51,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Included any trigger/other feature which is not taught in class. If yes, please explain briefly.** |Yes, we use trigger which automatically assigns a new value to the (primary key) column to sequence before a new row is inserted into the triggered table. |
 |The most unique feature/functionality in our application or the page of our application that we are proud of. Explain briefly.** |One unique feature of our application is the Automated Flight Crew Assignment System, which dynamically assigns crew members to flights based on roles, availability, and compliance with regulations. This feature reduces manual scheduling efforts and ensures efficient crew management. |
 
-4. Reports with Forms
+## 4. Reports with Forms
 
 |Report Page Number and Name |Form Page Number and Name |Table |
 | - | - | - |
@@ -95,7 +95,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Figure 11.1 Users Report Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image24.png)|
 |Figure 11.2 User Form Page. |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image25.png)|
 
-5. Reports based on Multi-Table and Aggregate Queries
+## 5. Reports based on Multi-Table and Aggregate Queries
 
 |**Page Number and Name** |**Query Type** |**Report description** |
 | - | - | - |
@@ -118,7 +118,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 |Figure 17 Get Unassigned Crew Report Page |[![View Image](https://img.shields.io/badge/View-Image-blue?logo=github&logoColor=white)](img/image31.png)|
 
 
-6. Authorization and User Role Assignment
+## 6. Authorization and User Role Assignment
 
 **User Role Assignment:**
 
@@ -128,7 +128,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 | - | - | - | - |
 |azmi |azmi007@@## |admin |1 |
 
-7. Concluding Remarks
+## 7. Concluding Remarks
 
 Developing with Oracle APEX was a mix of frustration and satisfaction. The platform made simple tasks easy but felt limiting for complex customizations. Despite some challenges, the quick deployment and ease of use made it worthwhile. 
 Page 19
