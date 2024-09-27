@@ -120,7 +120,7 @@ https://apex.oracle.com/pls/apex/r/azmi/airline_management_system/login?session=
 
 **User Role Assignment:**
 
-> -- user\_activated column: 1 means active, 0 means inactive
+> <span style="color:green">-- user\_activated column: 1 means active, 0 means inactive</span>
 
 |User name |Password |Role |User Activated |
 | - | - | - | - |
