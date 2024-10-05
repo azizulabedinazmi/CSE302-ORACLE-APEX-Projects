@@ -22,7 +22,6 @@ DROP SEQUENCE airline_seq;
 DROP SEQUENCE users_seq;
 
 
-
 CREATE TABLE Airlines (
     airline_id INT PRIMARY KEY,
     airline_name VARCHAR(100) NOT NULL,
